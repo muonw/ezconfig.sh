@@ -13,7 +13,10 @@ bash <(wget -qO- https://raw.githubusercontent.com/muonw/ezconfig.sh/main/instal
 
 
 ## 📖 Manual
-```ezconfig.sh (File) (Operation) (Key) [Connector] (Value)```
+
+```sh
+ezconfig.sh (File) (Operation) (Key) [Connector] (Value)
+```
 
 `File` is the plaintext configuration file you would like to modify.
 
